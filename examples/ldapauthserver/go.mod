@@ -3,7 +3,7 @@ module github.com/drakkan/sftpgo/ldapauthserver
 go 1.23.0
 
 require (
-	github.com/go-chi/chi/v5 v5.2.1
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/go-chi/render v1.0.3
 	github.com/go-ldap/ldap/v3 v3.4.10
 	github.com/nathanaelle/password/v2 v2.0.1
